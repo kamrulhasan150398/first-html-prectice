@@ -1,0 +1,39 @@
+body {
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-part {
+    background-image: url(image/all2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+h1 {
+    font-size: 16px;
+    color: white;
+}
+
+.main-part {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.button-link {
+    text-decoration: none;
+    background-color: brown;
+    padding: 1px 5px;
+    color: white;
+    border-radius: 50px;
+    font-weight: 400;
+
+}
+
+a {
+    /* font-size: 7px; */
+
+}
